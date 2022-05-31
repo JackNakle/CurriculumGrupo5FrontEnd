@@ -1,0 +1,33 @@
+
+
+header {text-align: center}
+
+h1 {color: rgb(0,86,119);
+background-color:#c4c4c4 ;
+}
+
+h3 {color: rgb(0,86,119);
+    background-color: #c4c4c4;
+
+
+}
+h4 {color:white}
+
+.FondoGris {background-color: #e6e6e6
+
+}
+
+.Altobr {height: 100px}
+
+.lttn {font-family: 'Times New Roman'}
+
+.ltb {font-weight: bold}
+
+.lti {font-style: italic}    
+
+.footer {background-color: rgb(0,86,119);
+text-align: center;
+}
+
+.nosaltar {white-space: nowrap;}
+
